@@ -1,0 +1,10 @@
+{
+  "description": "Manage student life, childcare, and small business tasks in one offline-capable, mobile-friendly app with integrated calendar, finances, and reminders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
